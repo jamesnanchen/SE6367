@@ -2,7 +2,7 @@
 
 In command line run:
 ```
-cd CodeCoverage
+cd InvariantsInference
 # these lines will create a JavaAgent jar file.
 mvn clean install
 ```
