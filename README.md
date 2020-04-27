@@ -1,5 +1,5 @@
-# CS6367_Project
-This is the course project of CS6367.
+# SE6367_Project
+This is the course project of SE6367.
 
 ---
 
