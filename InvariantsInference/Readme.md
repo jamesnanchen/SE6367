@@ -1,4 +1,4 @@
-<h1>Instruction for using CodeCoverage</h1>
+<h1>Instruction for using InvariantsInference</h1>
 
 In command line run:
 ```
